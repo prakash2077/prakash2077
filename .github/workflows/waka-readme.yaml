@@ -11,8 +11,9 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-        # this action name
+      # this action name
       - uses: athul/waka-readme@v0.3.1 # do NOT replace with anything else
         with:
           # GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme

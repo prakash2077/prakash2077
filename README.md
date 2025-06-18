@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Rayudu Siva Sai Prakash
+
+- 🚀 I build cool stuff with React & Python
+- 🛡️ Interested in Machine Learning & Security
+- 🌱 Currently learning: Next.js, FastAPI
 
 <!--
 **prakash2077/prakash2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}

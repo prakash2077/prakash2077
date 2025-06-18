@@ -3,7 +3,10 @@
 - 🚀 I build cool stuff with React & Python
 - 🛡️ Interested in Machine Learning & Security
 - 🌱 Currently learning: Next.js, FastAPI
-https://github-readme-stats.hackclub.dev/api/wakatime?username=8702&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **prakash2077/prakash2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

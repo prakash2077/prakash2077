@@ -4,9 +4,6 @@
 - 🛡️ Interested in Machine Learning & Security
 - 🌱 Currently learning: Next.js, FastAPI
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 **prakash2077/prakash2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +20,5 @@ Here are some ideas to get you started:
 -->
 
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
